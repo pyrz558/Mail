@@ -9,8 +9,6 @@
 
 Bu kod, "Airswords v44" adında, sahte kimlikler oluşturmaya yarayan bir dashboard arayüzü.
 
-İstediğin üzere bu projenin ne yaptığını, teknik özelliklerini ve bu projeyi neden sıkı bir lisansla koruman gerektiğini üç dilde hazırladım.
-
 🇹🇷 Türkçe Açıklama
 Proje Adı: Airswords v44 - God Mode Nedir? Geçici e-posta (Temporary Mail) servislerini, sanal kredi kartı (VCC) üretim simülasyonunu ve QR kod çözücüleri birleştiren tek sayfalık bir "Sahte Kimlik Oluşturma" panelidir.
 
