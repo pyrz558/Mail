@@ -1,15 +1,19 @@
-# LİSANS / LICENSE
+# Personal Use & Non-Commercial License
 
-TR:
-Bu yazılımın tüm hakları saklıdır. Bu yazılımı indiren kullanıcılar aşağıdaki şartları kabul etmiş sayılır:
-1. Bu yazılım sadece kişisel ve ticari olmayan (non-commercial) amaçlarla kullanılabilir.
-2. Yazılımın kaynak kodu veya derlenmiş hali; satılamaz, kiralanamaz, devredilemez veya herhangi bir ticari platformda paylaşılamaz.
-3. Yazılım üzerinde değişiklik yapılabilir ancak bu değişiklikler halka açık şekilde (re-distribution) dağıtılamaz.
+Copyright (c) 2026 Poyraz
 
-EN:
-All rights reserved. By downloading or using this software, you agree to the following:
-1. This software is provided for personal and non-commercial use only.
-2. You may not sell, rent, lease, or redistribute this software or its source code.
-3. You may modify the code for personal use, but you may not publish or redistribute modified versions.
+### 1. PERMISSIONS
+* **Private Use:** You are allowed to download, install, and use this software for personal, non-commercial purposes only.
+* **Modification:** You may modify the source code for your own personal use. However, you cannot distribute the modified version.
 
-Copyright (c) 2024 [Pyrz558]
+### 2. RESTRICTIONS
+* **No Commercial Use:** You may not use this software or any part of its source code for any commercial purpose, including but not limited to selling, renting, or leasing.
+* **No Distribution:** You may not redistribute, host, or mirror this software or its source code on any public or private platform, website, or repository.
+* **No Sublicensing:** You may not grant any third party the right to use this software.
+
+### 3. CONDITIONS
+* **License Notice:** You must retain the original copyright and license notice in any copy of the software you use privately.
+
+### 4. LIMITATIONS
+* **Liability:** The author shall not be held liable for any damages or issues arising from the use of this software.
+* **Warranty:** This software is provided "as is," without warranty of any kind, express or implied.
